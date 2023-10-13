@@ -1,25 +1,28 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: BUF-Unet
+description: dental image segmentation by introducing BEF-Unet
+img: assets/img/project_1.jpeg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This paper introduces DilatedUNet, a novel approach that combines a Dilated Transformer block with the U-Net architecture to enhance medical image segmentation by effectively addressing global context and spatial relationship challenges, achieving fast and accurate results that outperform existing methods on challenging benchmarks like Synapse and ISIC.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Explore our innovative network architecture, DilatedUNet, at the forefront of medical image segmentation, combining the power of Dilated Transformers with the U-Net structure for superior results on complex tasks:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Overall.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The architecture of Dilated-Unet, which is composed of encoder, bottleneck, decoder and skip connections. Encoder, bottleneck
+    and decoder are all constructed based on Dilated transformer block.
+</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

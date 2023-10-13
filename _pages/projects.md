@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: We're using deep learning techniques to extract valuable insights from images, whether it's for medical diagnosis, self driving cars, or facial recognition.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

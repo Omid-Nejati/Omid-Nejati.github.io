@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Omid Nejati Manzari",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "omid.nejaty@gmail.com",
+    "phone": "(+98)933-738-2007",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Machine vision researcher with a master's degree, dedicated to cutting-edge research at a university's vision lab.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,19 +22,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
+  "work": [],
   "volunteer": [],
   "education": [
     {
@@ -63,7 +51,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Persian",
       "fluency": "Native speaker"
     },
     {
