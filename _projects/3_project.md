@@ -3,7 +3,6 @@ layout: page
 title: Line Detection
 description: Fast Drivable Area for Autonomous Driving
 img: assets/img/line_det.gif
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
